@@ -2,8 +2,6 @@
 
 A sleek, modern desktop app for generating client invoices—built with Python, `ttkbootstrap`, and `reportlab`.
 
-![Screenshot](screenshot.png) <!-- Optional: add a screenshot if you want! -->
-
 ## 💡 Features
 
 - Clean GUI using `ttkbootstrap`
